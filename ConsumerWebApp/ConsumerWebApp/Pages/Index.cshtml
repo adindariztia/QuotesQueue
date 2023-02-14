@@ -1,0 +1,38 @@
+﻿@page
+<div class="container">
+  
+    <div class="row p-1">
+        <h2>Daily Quote Generator</h2>
+        <p>Click this button to start</p>
+    </div>
+    <div class="row p-1">
+        <div class="col-1 text-end">
+            <input style="margin-bottom: 10px;" type="button" id="sendButton" value="Generate Quote" />
+        </div>        
+    </div>
+    <div class="row p-1">
+        @*<div class="col-10">
+            <textarea disabled class="col-10 "></textarea>
+        </div>*@
+        <div class="form-floating" id="recentQoutesDiv" hidden="hidden">
+            <textarea disabled class="form-control" id="recentQuotes" style="height: 100px"></textarea>
+            <label for="floatingTextarea2" style="padding-left: 20px;">Recent Quotes:</label>
+        </div>
+    </div>
+    <div class="row p-1">
+        <div class="col-12">
+            <hr />
+        </div>
+    </div>
+    <div class="row p-1">
+        <h4 id="quotesHistory" hidden="hidden">Previous quotes..</h4>
+    </div>
+    <div class="row p-1">
+        <div class="col-12" id="messagesContainer" style="">
+            @*<ul id="messagesList"></ul>*@
+            <div class="container border" id="messagesList" style="border-radius: 25px;background-color: lightgray;"></div>
+        </div>
+    </div>
+</div>
+<script src="~/js/signalr/dist/browser/signalr.js"></script>
+<script src="~/js/quotes.js"></script>

@@ -1,0 +1,72 @@
+C:\Users\ASUS\source\repos\Rabbit Send API\Rabbit Send API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ASUS\source\repos\Rabbit Send API\Rabbit Send API\bin\Debug\net6.0\appsettings.json
+C:\Users\ASUS\source\repos\Rabbit Send API\Rabbit Send API\bin\Debug\net6.0\Rabbit Send API.exe
+C:\Users\ASUS\source\repos\Rabbit Send API\Rabbit Send API\bin\Debug\net6.0\Rabbit Send API.deps.json
+C:\Users\ASUS\source\repos\Rabbit Send API\Rabbit Send API\bin\Debug\net6.0\Rabbit Send API.runtimeconfig.json
+C:\Users\ASUS\source\repos\Rabbit Send API\Rabbit Send API\bin\Debug\net6.0\Rabbit Send API.dll
+C:\Users\ASUS\source\repos\Rabbit Send API\Rabbit Send API\bin\Debug\net6.0\Rabbit Send API.pdb
+C:\Users\ASUS\source\repos\Rabbit Send API\Rabbit Send API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ASUS\source\repos\Rabbit Send API\Rabbit Send API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ASUS\source\repos\Rabbit Send API\Rabbit Send API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ASUS\source\repos\Rabbit Send API\Rabbit Send API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ASUS\source\repos\Rabbit Send API\Rabbit Send API\obj\Debug\net6.0\Rabbit Send API.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Rabbit Send API\Rabbit Send API\obj\Debug\net6.0\Rabbit Send API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Rabbit Send API\Rabbit Send API\obj\Debug\net6.0\Rabbit Send API.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Rabbit Send API\Rabbit Send API\obj\Debug\net6.0\Rabbit Send API.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Rabbit Send API\Rabbit Send API\obj\Debug\net6.0\Rabbit Send API.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Rabbit Send API\Rabbit Send API\obj\Debug\net6.0\Rabbit Send API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\source\repos\Rabbit Send API\Rabbit Send API\obj\Debug\net6.0\Rabbit Send API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\source\repos\Rabbit Send API\Rabbit Send API\obj\Debug\net6.0\staticwebassets\msbuild.Rabbit Send API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASUS\source\repos\Rabbit Send API\Rabbit Send API\obj\Debug\net6.0\staticwebassets\msbuild.build.Rabbit Send API.props
+C:\Users\ASUS\source\repos\Rabbit Send API\Rabbit Send API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Rabbit Send API.props
+C:\Users\ASUS\source\repos\Rabbit Send API\Rabbit Send API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Rabbit Send API.props
+C:\Users\ASUS\source\repos\Rabbit Send API\Rabbit Send API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ASUS\source\repos\Rabbit Send API\Rabbit Send API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ASUS\source\repos\Rabbit Send API\Rabbit Send API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ASUS\source\repos\Rabbit Send API\Rabbit Send API\obj\Debug\net6.0\scopedcss\bundle\Rabbit Send API.styles.css
+C:\Users\ASUS\source\repos\Rabbit Send API\Rabbit Send API\obj\Debug\net6.0\Rabbit Send API.csproj.CopyComplete
+C:\Users\ASUS\source\repos\Rabbit Send API\Rabbit Send API\obj\Debug\net6.0\Rabbit Send API.dll
+C:\Users\ASUS\source\repos\Rabbit Send API\Rabbit Send API\obj\Debug\net6.0\refint\Rabbit Send API.dll
+C:\Users\ASUS\source\repos\Rabbit Send API\Rabbit Send API\obj\Debug\net6.0\Rabbit Send API.pdb
+C:\Users\ASUS\source\repos\Rabbit Send API\Rabbit Send API\obj\Debug\net6.0\Rabbit Send API.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\Rabbit Send API\Rabbit Send API\obj\Debug\net6.0\ref\Rabbit Send API.dll
+C:\Users\ASUS\source\repos\Rabbit Send API\Rabbit Send API\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\ASUS\source\repos\Rabbit Send API\Rabbit Send API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ASUS\source\repos\Rabbit Send API\Rabbit Send API\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\ASUS\source\repos\Rabbit Send API\Rabbit Send API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\bilijir\yicom\dikirim ke git\Rabbit Send API\Rabbit Send API\bin\Debug\net6.0\appsettings.Development.json
+D:\bilijir\yicom\dikirim ke git\Rabbit Send API\Rabbit Send API\bin\Debug\net6.0\appsettings.json
+D:\bilijir\yicom\dikirim ke git\Rabbit Send API\Rabbit Send API\bin\Debug\net6.0\Rabbit Send API.exe
+D:\bilijir\yicom\dikirim ke git\Rabbit Send API\Rabbit Send API\bin\Debug\net6.0\Rabbit Send API.deps.json
+D:\bilijir\yicom\dikirim ke git\Rabbit Send API\Rabbit Send API\bin\Debug\net6.0\Rabbit Send API.runtimeconfig.json
+D:\bilijir\yicom\dikirim ke git\Rabbit Send API\Rabbit Send API\bin\Debug\net6.0\Rabbit Send API.dll
+D:\bilijir\yicom\dikirim ke git\Rabbit Send API\Rabbit Send API\bin\Debug\net6.0\Rabbit Send API.pdb
+D:\bilijir\yicom\dikirim ke git\Rabbit Send API\Rabbit Send API\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\bilijir\yicom\dikirim ke git\Rabbit Send API\Rabbit Send API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\bilijir\yicom\dikirim ke git\Rabbit Send API\Rabbit Send API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\bilijir\yicom\dikirim ke git\Rabbit Send API\Rabbit Send API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\bilijir\yicom\dikirim ke git\Rabbit Send API\Rabbit Send API\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\bilijir\yicom\dikirim ke git\Rabbit Send API\Rabbit Send API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\bilijir\yicom\dikirim ke git\Rabbit Send API\Rabbit Send API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\bilijir\yicom\dikirim ke git\Rabbit Send API\Rabbit Send API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\bilijir\yicom\dikirim ke git\Rabbit Send API\Rabbit Send API\obj\Debug\net6.0\Rabbit Send API.csproj.AssemblyReference.cache
+D:\bilijir\yicom\dikirim ke git\Rabbit Send API\Rabbit Send API\obj\Debug\net6.0\Rabbit Send API.GeneratedMSBuildEditorConfig.editorconfig
+D:\bilijir\yicom\dikirim ke git\Rabbit Send API\Rabbit Send API\obj\Debug\net6.0\Rabbit Send API.AssemblyInfoInputs.cache
+D:\bilijir\yicom\dikirim ke git\Rabbit Send API\Rabbit Send API\obj\Debug\net6.0\Rabbit Send API.AssemblyInfo.cs
+D:\bilijir\yicom\dikirim ke git\Rabbit Send API\Rabbit Send API\obj\Debug\net6.0\Rabbit Send API.csproj.CoreCompileInputs.cache
+D:\bilijir\yicom\dikirim ke git\Rabbit Send API\Rabbit Send API\obj\Debug\net6.0\Rabbit Send API.MvcApplicationPartsAssemblyInfo.cs
+D:\bilijir\yicom\dikirim ke git\Rabbit Send API\Rabbit Send API\obj\Debug\net6.0\Rabbit Send API.MvcApplicationPartsAssemblyInfo.cache
+D:\bilijir\yicom\dikirim ke git\Rabbit Send API\Rabbit Send API\obj\Debug\net6.0\staticwebassets\msbuild.Rabbit Send API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\bilijir\yicom\dikirim ke git\Rabbit Send API\Rabbit Send API\obj\Debug\net6.0\staticwebassets\msbuild.build.Rabbit Send API.props
+D:\bilijir\yicom\dikirim ke git\Rabbit Send API\Rabbit Send API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Rabbit Send API.props
+D:\bilijir\yicom\dikirim ke git\Rabbit Send API\Rabbit Send API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Rabbit Send API.props
+D:\bilijir\yicom\dikirim ke git\Rabbit Send API\Rabbit Send API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\bilijir\yicom\dikirim ke git\Rabbit Send API\Rabbit Send API\obj\Debug\net6.0\staticwebassets.build.json
+D:\bilijir\yicom\dikirim ke git\Rabbit Send API\Rabbit Send API\obj\Debug\net6.0\staticwebassets.development.json
+D:\bilijir\yicom\dikirim ke git\Rabbit Send API\Rabbit Send API\obj\Debug\net6.0\scopedcss\bundle\Rabbit Send API.styles.css
+D:\bilijir\yicom\dikirim ke git\Rabbit Send API\Rabbit Send API\obj\Debug\net6.0\Rabbit Send API.csproj.CopyComplete
+D:\bilijir\yicom\dikirim ke git\Rabbit Send API\Rabbit Send API\obj\Debug\net6.0\Rabbit Send API.dll
+D:\bilijir\yicom\dikirim ke git\Rabbit Send API\Rabbit Send API\obj\Debug\net6.0\refint\Rabbit Send API.dll
+D:\bilijir\yicom\dikirim ke git\Rabbit Send API\Rabbit Send API\obj\Debug\net6.0\Rabbit Send API.pdb
+D:\bilijir\yicom\dikirim ke git\Rabbit Send API\Rabbit Send API\obj\Debug\net6.0\Rabbit Send API.genruntimeconfig.cache
+D:\bilijir\yicom\dikirim ke git\Rabbit Send API\Rabbit Send API\obj\Debug\net6.0\ref\Rabbit Send API.dll

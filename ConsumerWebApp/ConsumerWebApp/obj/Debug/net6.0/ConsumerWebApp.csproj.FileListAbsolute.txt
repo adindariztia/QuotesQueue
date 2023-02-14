@@ -1,0 +1,70 @@
+D:\bilijir\yicom\ConsumerWebApp\ConsumerWebApp\bin\Debug\net6.0\appsettings.Development.json
+D:\bilijir\yicom\ConsumerWebApp\ConsumerWebApp\bin\Debug\net6.0\appsettings.json
+D:\bilijir\yicom\ConsumerWebApp\ConsumerWebApp\bin\Debug\net6.0\ConsumerWebApp.staticwebassets.runtime.json
+D:\bilijir\yicom\ConsumerWebApp\ConsumerWebApp\bin\Debug\net6.0\ConsumerWebApp.exe
+D:\bilijir\yicom\ConsumerWebApp\ConsumerWebApp\bin\Debug\net6.0\ConsumerWebApp.deps.json
+D:\bilijir\yicom\ConsumerWebApp\ConsumerWebApp\bin\Debug\net6.0\ConsumerWebApp.runtimeconfig.json
+D:\bilijir\yicom\ConsumerWebApp\ConsumerWebApp\bin\Debug\net6.0\ConsumerWebApp.dll
+D:\bilijir\yicom\ConsumerWebApp\ConsumerWebApp\bin\Debug\net6.0\ConsumerWebApp.pdb
+D:\bilijir\yicom\ConsumerWebApp\ConsumerWebApp\obj\Debug\net6.0\ConsumerWebApp.csproj.AssemblyReference.cache
+D:\bilijir\yicom\ConsumerWebApp\ConsumerWebApp\obj\Debug\net6.0\ConsumerWebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\bilijir\yicom\ConsumerWebApp\ConsumerWebApp\obj\Debug\net6.0\ConsumerWebApp.AssemblyInfoInputs.cache
+D:\bilijir\yicom\ConsumerWebApp\ConsumerWebApp\obj\Debug\net6.0\ConsumerWebApp.AssemblyInfo.cs
+D:\bilijir\yicom\ConsumerWebApp\ConsumerWebApp\obj\Debug\net6.0\ConsumerWebApp.csproj.CoreCompileInputs.cache
+D:\bilijir\yicom\ConsumerWebApp\ConsumerWebApp\obj\Debug\net6.0\ConsumerWebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\bilijir\yicom\ConsumerWebApp\ConsumerWebApp\obj\Debug\net6.0\ConsumerWebApp.RazorAssemblyInfo.cache
+D:\bilijir\yicom\ConsumerWebApp\ConsumerWebApp\obj\Debug\net6.0\ConsumerWebApp.RazorAssemblyInfo.cs
+D:\bilijir\yicom\ConsumerWebApp\ConsumerWebApp\obj\Debug\net6.0\staticwebassets\msbuild.ConsumerWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\bilijir\yicom\ConsumerWebApp\ConsumerWebApp\obj\Debug\net6.0\staticwebassets\msbuild.build.ConsumerWebApp.props
+D:\bilijir\yicom\ConsumerWebApp\ConsumerWebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ConsumerWebApp.props
+D:\bilijir\yicom\ConsumerWebApp\ConsumerWebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ConsumerWebApp.props
+D:\bilijir\yicom\ConsumerWebApp\ConsumerWebApp\obj\Debug\net6.0\staticwebassets.pack.json
+D:\bilijir\yicom\ConsumerWebApp\ConsumerWebApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\bilijir\yicom\ConsumerWebApp\ConsumerWebApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\bilijir\yicom\ConsumerWebApp\ConsumerWebApp\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\bilijir\yicom\ConsumerWebApp\ConsumerWebApp\obj\Debug\net6.0\scopedcss\bundle\ConsumerWebApp.styles.css
+D:\bilijir\yicom\ConsumerWebApp\ConsumerWebApp\obj\Debug\net6.0\scopedcss\projectbundle\ConsumerWebApp.bundle.scp.css
+D:\bilijir\yicom\ConsumerWebApp\ConsumerWebApp\obj\Debug\net6.0\ConsumerWebApp.dll
+D:\bilijir\yicom\ConsumerWebApp\ConsumerWebApp\obj\Debug\net6.0\refint\ConsumerWebApp.dll
+D:\bilijir\yicom\ConsumerWebApp\ConsumerWebApp\obj\Debug\net6.0\ConsumerWebApp.pdb
+D:\bilijir\yicom\ConsumerWebApp\ConsumerWebApp\obj\Debug\net6.0\ConsumerWebApp.genruntimeconfig.cache
+D:\bilijir\yicom\ConsumerWebApp\ConsumerWebApp\obj\Debug\net6.0\ref\ConsumerWebApp.dll
+D:\bilijir\yicom\ConsumerWebApp\ConsumerWebApp\bin\Debug\net6.0\libman.json
+D:\bilijir\yicom\ConsumerWebApp\ConsumerWebApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\bilijir\yicom\ConsumerWebApp\ConsumerWebApp\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\bilijir\yicom\ConsumerWebApp\ConsumerWebApp\obj\Debug\net6.0\ConsumerWebApp.csproj.CopyComplete
+D:\bilijir\yicom\dikirim ke git\ConsumerWebApp\ConsumerWebApp\bin\Debug\net6.0\appsettings.Development.json
+D:\bilijir\yicom\dikirim ke git\ConsumerWebApp\ConsumerWebApp\bin\Debug\net6.0\appsettings.json
+D:\bilijir\yicom\dikirim ke git\ConsumerWebApp\ConsumerWebApp\bin\Debug\net6.0\libman.json
+D:\bilijir\yicom\dikirim ke git\ConsumerWebApp\ConsumerWebApp\bin\Debug\net6.0\ConsumerWebApp.staticwebassets.runtime.json
+D:\bilijir\yicom\dikirim ke git\ConsumerWebApp\ConsumerWebApp\bin\Debug\net6.0\ConsumerWebApp.exe
+D:\bilijir\yicom\dikirim ke git\ConsumerWebApp\ConsumerWebApp\bin\Debug\net6.0\ConsumerWebApp.deps.json
+D:\bilijir\yicom\dikirim ke git\ConsumerWebApp\ConsumerWebApp\bin\Debug\net6.0\ConsumerWebApp.runtimeconfig.json
+D:\bilijir\yicom\dikirim ke git\ConsumerWebApp\ConsumerWebApp\bin\Debug\net6.0\ConsumerWebApp.dll
+D:\bilijir\yicom\dikirim ke git\ConsumerWebApp\ConsumerWebApp\bin\Debug\net6.0\ConsumerWebApp.pdb
+D:\bilijir\yicom\dikirim ke git\ConsumerWebApp\ConsumerWebApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\bilijir\yicom\dikirim ke git\ConsumerWebApp\ConsumerWebApp\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\bilijir\yicom\dikirim ke git\ConsumerWebApp\ConsumerWebApp\obj\Debug\net6.0\ConsumerWebApp.csproj.AssemblyReference.cache
+D:\bilijir\yicom\dikirim ke git\ConsumerWebApp\ConsumerWebApp\obj\Debug\net6.0\ConsumerWebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\bilijir\yicom\dikirim ke git\ConsumerWebApp\ConsumerWebApp\obj\Debug\net6.0\ConsumerWebApp.AssemblyInfoInputs.cache
+D:\bilijir\yicom\dikirim ke git\ConsumerWebApp\ConsumerWebApp\obj\Debug\net6.0\ConsumerWebApp.AssemblyInfo.cs
+D:\bilijir\yicom\dikirim ke git\ConsumerWebApp\ConsumerWebApp\obj\Debug\net6.0\ConsumerWebApp.csproj.CoreCompileInputs.cache
+D:\bilijir\yicom\dikirim ke git\ConsumerWebApp\ConsumerWebApp\obj\Debug\net6.0\ConsumerWebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\bilijir\yicom\dikirim ke git\ConsumerWebApp\ConsumerWebApp\obj\Debug\net6.0\ConsumerWebApp.RazorAssemblyInfo.cache
+D:\bilijir\yicom\dikirim ke git\ConsumerWebApp\ConsumerWebApp\obj\Debug\net6.0\ConsumerWebApp.RazorAssemblyInfo.cs
+D:\bilijir\yicom\dikirim ke git\ConsumerWebApp\ConsumerWebApp\obj\Debug\net6.0\staticwebassets\msbuild.ConsumerWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\bilijir\yicom\dikirim ke git\ConsumerWebApp\ConsumerWebApp\obj\Debug\net6.0\staticwebassets\msbuild.build.ConsumerWebApp.props
+D:\bilijir\yicom\dikirim ke git\ConsumerWebApp\ConsumerWebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ConsumerWebApp.props
+D:\bilijir\yicom\dikirim ke git\ConsumerWebApp\ConsumerWebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ConsumerWebApp.props
+D:\bilijir\yicom\dikirim ke git\ConsumerWebApp\ConsumerWebApp\obj\Debug\net6.0\staticwebassets.pack.json
+D:\bilijir\yicom\dikirim ke git\ConsumerWebApp\ConsumerWebApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\bilijir\yicom\dikirim ke git\ConsumerWebApp\ConsumerWebApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\bilijir\yicom\dikirim ke git\ConsumerWebApp\ConsumerWebApp\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\bilijir\yicom\dikirim ke git\ConsumerWebApp\ConsumerWebApp\obj\Debug\net6.0\scopedcss\bundle\ConsumerWebApp.styles.css
+D:\bilijir\yicom\dikirim ke git\ConsumerWebApp\ConsumerWebApp\obj\Debug\net6.0\scopedcss\projectbundle\ConsumerWebApp.bundle.scp.css
+D:\bilijir\yicom\dikirim ke git\ConsumerWebApp\ConsumerWebApp\obj\Debug\net6.0\ConsumerWebApp.csproj.CopyComplete
+D:\bilijir\yicom\dikirim ke git\ConsumerWebApp\ConsumerWebApp\obj\Debug\net6.0\ConsumerWebApp.dll
+D:\bilijir\yicom\dikirim ke git\ConsumerWebApp\ConsumerWebApp\obj\Debug\net6.0\refint\ConsumerWebApp.dll
+D:\bilijir\yicom\dikirim ke git\ConsumerWebApp\ConsumerWebApp\obj\Debug\net6.0\ConsumerWebApp.pdb
+D:\bilijir\yicom\dikirim ke git\ConsumerWebApp\ConsumerWebApp\obj\Debug\net6.0\ConsumerWebApp.genruntimeconfig.cache
+D:\bilijir\yicom\dikirim ke git\ConsumerWebApp\ConsumerWebApp\obj\Debug\net6.0\ref\ConsumerWebApp.dll
